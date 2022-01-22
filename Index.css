@@ -1,0 +1,16 @@
+
+
+img{
+  border-radius: 200px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: rgb(201, 122, 247);
+  width: 150px;
+  height: 170px;
+}
+
+div{
+  text-align: center;
+  background-color: white;
+  size:135%;
+}
